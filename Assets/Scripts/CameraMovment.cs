@@ -7,6 +7,7 @@ public class CameraMovment : MonoBehaviour
     public Transform target;
     public float followDistance = 8f;
     public float cameraSpeed = 3f;
+    
 
     private void LateUpdate()
     {
